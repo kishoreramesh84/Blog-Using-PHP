@@ -6,6 +6,7 @@
 <?php include 'app/database/db.php' ?>
 <?php 
 
+
 if(isset($_GET['id']))
 {
 	$p_id=$_GET['id'];
