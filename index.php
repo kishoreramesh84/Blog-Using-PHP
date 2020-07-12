@@ -4,6 +4,7 @@
 <?php include("app/controllers/topics.php") ?>
 <?php include("app/controllers/posts.php") ?>
 
+
 <?php 
 $all_posts=array();
 $post_title='Recent Posts';
