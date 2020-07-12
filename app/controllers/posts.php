@@ -2,6 +2,7 @@
 	include("../database/connect.php");
 	include("users.php");
 	global $conn;
+
 	
 	$sql="select * from topics";
 	$result=mysqli_query($conn,$sql);
