@@ -2,6 +2,7 @@
 <?php include("app/controllers/topics.php") ?>
 <?php include("app/controllers/posts.php") ?>
 
+
 <!DOCTYPE html>
 <html>
 <head>
