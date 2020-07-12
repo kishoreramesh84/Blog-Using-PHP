@@ -1,6 +1,8 @@
 <?php include("app/controllers/users.php"); ?>
 <?php include 'app/database/connect.php';?>
 
+
+
 <!DOCTYPE html>
 <html>
 <head>
