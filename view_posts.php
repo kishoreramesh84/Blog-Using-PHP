@@ -15,8 +15,6 @@
     $var=sizeof($get_post);
 ?>
 
-
-
 <!DOCTYPE html>
 <html>
 <head>
