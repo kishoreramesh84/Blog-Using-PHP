@@ -1,6 +1,6 @@
 <?php 
 	include("connect.php");
-	// echo "db.php da   ";
+	
 	function selectAll($table)
 	{
 		global $conn;

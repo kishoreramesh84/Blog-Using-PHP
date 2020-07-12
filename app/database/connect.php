@@ -1,13 +1,6 @@
 
  <?php
-// $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
-// $server = $url["host"];
-// $username = $url["user"];
-// $password = $url["pass"];
-// $db = substr($url["path"], 1);
-
-// $conn = mysqli_connect($server, $username, $password,$db);
  $host='sql210.epizy.com';
  $user='epiz_25964457';
  $pass='xMvWYXFnm9f4';
